@@ -1,0 +1,34 @@
+input:checked + .slider{background-color:#28a745}
+input:focus + .slider{box-shadow:0 0 1px #28a745}
+input:checked + .slider:before{-webkit-transform:translateX(26px);-ms-transform:translateX(26px);transform:translateX(26px)}
+td.column-columnname label{font-weight:bold;padding-top: 15px}
+.large-text{min-width:100%!important;display: inline}
+.medium-text{min-width:50%!important;display: inline}
+.small-text{min-width:25%!important;display: inline}
+.slider.round{border-radius:34px;margin:0px}
+.slider.round:before{border-radius:50%}
+.slider-switch{position:relative;display:inline-block;width:60px;height:18px!important}
+.slider-switch input{opacity:0;width:0;height:0}
+label.slider-switch{padding-top:34px;}
+.slider{position:absolute;cursor:pointer;top:0;left:0;right:0;bottom:0;background-color:#ccc;-webkit-transition:.4s;transition:.4s}
+.slider:before{position:absolute;content:"";height:26px;width:26px;left:4px;bottom:4px;background-color:#fff;-webkit-transition:.4s;transition:.4s}
+#div-col-left{margin-right:307px}
+#div-col-right{float:right;width:290px;padding-top:37px!important}
+#div-col-right p.version{font-size:23px;line-height:29px;font-family:HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue',sans-serif;color:#ccc;margin-top:0}
+#div-col-left .wp-list-table th#fields{width:25%}
+#div-col-left form{width:100%}
+#div-col-overview{position:relative;float:left;padding-top:20px;width:100%}
+#div-col-right .wp-box{border:1px solid #e1e1e1;position:relative}
+#div-col-right .wp-box .inner{padding:10px}
+#div-col-right .wp-box .inner p{color:#666}
+#div-col-right .wp-box .footer{background:#f5f5f5;border-top:1px solid #e1e1e1;overflow:hidden;padding:10px;position:relative}
+#div-col-right .wp-box .footer ul.left{float:left}
+#div-col-right .wp-box .footer ul li{margin:0;padding:0}
+#div-col-right .wp-box .footer ul.left li{margin-right:10px}
+#div-col-right .wp-box .footer ul.right{float:right}
+#div-col-right .wp-box .footer ul.right li{margin-left:10px}
+@media screen and (max-width:782px) {
+#div-col-right{float:right!important;width:100%!important}
+#div-col-left{float:right;margin-right:0!important}
+.large-text,.medium-text,.small-text{min-width:100%!important}
+}

@@ -1,0 +1,131 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KPIS CTA Buttons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-26 10:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.1\n"
+"X-Domain: kpis-cta-buttons"
+
+#: inc/manutencion.php:44
+msgid "Active to show a CTA float"
+msgstr ""
+
+#. Author of the plugin
+msgid "Agencia KPIS"
+msgstr ""
+
+#: inc/manutencion.php:84
+msgid "Anchor text"
+msgstr ""
+
+#: inc/templates.php:12
+msgid "Contact US"
+msgstr ""
+
+#: inc/manutencion.php:109
+msgid "Control click to Google TAG Manager"
+msgstr ""
+
+#: inc/manutencion.php:63
+msgid "Country Code"
+msgstr ""
+
+#: inc/manutencion.php:107
+msgid "Country code, exemples: Spain = 34, Brazil = 55, EUA = 1"
+msgstr ""
+
+#: inc/manutencion.php:30
+msgid "Cta Buttons"
+msgstr ""
+
+#: inc/manutencion.php:56 inc/manutencion.php:73 inc/manutencion.php:90
+msgid "Fixed"
+msgstr ""
+
+#: inc/manutencion.php:106
+msgid "Help Info"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://agenciakpis.com"
+msgstr ""
+
+#. Name of the plugin
+msgid "KPIS CTA Buttons"
+msgstr ""
+
+#: kpis-cta.php:38 kpis-cta.php:39
+msgid "Kpis Cta Buttons"
+msgstr ""
+
+#: inc/manutencion.php:57 inc/manutencion.php:74 inc/manutencion.php:91
+msgid "No Fixed"
+msgstr ""
+
+#: inc/manutencion.php:67
+msgid "Number of whatsapp"
+msgstr ""
+
+#: inc/manutencion.php:80
+msgid "Paste here your contact page url"
+msgstr ""
+
+#: inc/manutencion.php:50
+msgid "Phone"
+msgstr ""
+
+#: inc/manutencion.php:54 inc/manutencion.php:71 inc/manutencion.php:88
+msgid "Position"
+msgstr ""
+
+#: inc/manutencion.php:36
+msgid "Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Show float Buttons to CTA on sidebar websites. KPIS CTA Buttons is Easy to "
+"use & atraction to conversion."
+msgstr ""
+
+#: inc/manutencion.php:9
+msgid "Sorry, has a error. Try again."
+msgstr ""
+
+#: inc/manutencion.php:125
+msgid "Support"
+msgstr ""
+
+#: inc/manutencion.php:111
+msgid "To control click on mail button use a class"
+msgstr ""
+
+#: inc/manutencion.php:110
+msgid "To control click on phone button use a class"
+msgstr ""
+
+#: inc/manutencion.php:112
+msgid "To control click on whatsapp button use a class"
+msgstr ""
+
+#: inc/manutencion.php:51
+msgid "type a number. Use only numero and no put special characters"
+msgstr ""
+
+#: inc/manutencion.php:64 inc/manutencion.php:68
+msgid "type the whatsapp number XXYY123456789. Do not need +"
+msgstr ""
+
+#: inc/manutencion.php:108
+msgid "Use dashes (-) to separate numbers on phone and whatsapp"
+msgstr ""

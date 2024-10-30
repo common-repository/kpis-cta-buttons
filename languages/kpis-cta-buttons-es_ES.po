@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: KPIS CTA Buttons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-23 17:18+0000\n"
+"PO-Revision-Date: 2023-04-26 10:43+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3\n"
+"X-Domain: kpis-cta-buttons"
+
+#: inc/manutencion.php:44
+msgid "Active to show a CTA float"
+msgstr "Activa para mostrar el CTA Buttons"
+
+#. Author of the plugin
+msgid "Agencia KPIS"
+msgstr "Agencia KPIS"
+
+#: inc/manutencion.php:84
+msgid "Anchor text"
+msgstr "Texto de anclaje"
+
+#: inc/templates.php:12
+msgid "Contact US"
+msgstr "Escríbenos"
+
+#: inc/manutencion.php:109
+msgid "Control click to Google TAG Manager"
+msgstr "Controle el clic para Google TAG Manager"
+
+#: inc/manutencion.php:63
+msgid "Country Code"
+msgstr ""
+"Cód. del País\n"
+
+#: inc/manutencion.php:107
+msgid "Country code, exemples: Spain = 34, Brazil = 55, EUA = 1"
+msgstr "Cód. del país, ejemplos: España = 34, Brasil = 55, EUA = 1 ..."
+
+#: inc/manutencion.php:30
+msgid "Cta Buttons"
+msgstr "Cta Buttons"
+
+#: inc/manutencion.php:56 inc/manutencion.php:73 inc/manutencion.php:90
+msgid "Fixed"
+msgstr "Fijo"
+
+#: inc/manutencion.php:106
+msgid "Help Info"
+msgstr "Informaciones"
+
+#. Author URI of the plugin
+msgid "https://agenciakpis.com"
+msgstr "https://agenciakpis.com"
+
+#. Name of the plugin
+msgid "KPIS CTA Buttons"
+msgstr "KPIS CTA Buttons"
+
+#: kpis-cta.php:38 kpis-cta.php:39
+#, fuzzy
+#| msgid "KPIS Cta Buttons"
+msgid "Kpis Cta Buttons"
+msgstr "KPIS CTA Buttons"
+
+#: inc/manutencion.php:57 inc/manutencion.php:74 inc/manutencion.php:91
+msgid "No Fixed"
+msgstr "No fijo"
+
+#: inc/manutencion.php:67
+msgid "Number of whatsapp"
+msgstr "Nº WhatsApp"
+
+#: inc/manutencion.php:80
+msgid "Paste here your contact page url"
+msgstr "URL de la pág. de contacto"
+
+#: inc/manutencion.php:50
+msgid "Phone"
+msgstr "Teléfono"
+
+#: inc/manutencion.php:54 inc/manutencion.php:71 inc/manutencion.php:88
+msgid "Position"
+msgstr "Posición"
+
+#: inc/manutencion.php:36
+msgid "Settings"
+msgstr "Ajustes para CTA Buttons"
+
+#. Description of the plugin
+msgid ""
+"Show float Buttons to CTA on sidebar websites. KPIS CTA Buttons is Easy to "
+"use & atraction to conversion."
+msgstr ""
+"Muestre los botones flotantes para CTA en los sitios web en la barra lateral."
+" Los botones KPIS CTA son fáciles de usar y atractivos para la conversión."
+
+#: inc/manutencion.php:9
+msgid "Sorry, has a error. Try again."
+msgstr "Lo siento, tiene un error. Intentar otra vez."
+
+#: inc/manutencion.php:125
+msgid "Support"
+msgstr "Soporte"
+
+#: inc/manutencion.php:111
+msgid "To control click on mail button use a class"
+msgstr "Controle el clic del botón de correo, use la clase"
+
+#: inc/manutencion.php:110
+msgid "To control click on phone button use a class"
+msgstr "Control de clic en el botón de teléfono, use la clase"
+
+#: inc/manutencion.php:112
+msgid "To control click on whatsapp button use a class"
+msgstr "Control de clic en el botón de whatsapp, use la clase"
+
+#: inc/manutencion.php:51
+#, fuzzy
+#| msgid "type a number and use only numero and no put special characters"
+msgid "type a number. Use only numero and no put special characters"
+msgstr "escriba un número y use solo número y no ponga caracteres especiales"
+
+#: inc/manutencion.php:64 inc/manutencion.php:68
+msgid "type the whatsapp number XXYY123456789. Do not need +"
+msgstr "escriba el número de whatsapp XXYY123456789. No necesita +"
+
+#: inc/manutencion.php:108
+msgid "Use dashes (-) to separate numbers on phone and whatsapp"
+msgstr "Use guiones (-) para separar números en el teléfono y WhatsApp"

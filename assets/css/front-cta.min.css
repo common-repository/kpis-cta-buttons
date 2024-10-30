@@ -1,0 +1,29 @@
+#Sidenavphone{background-color:#0d6efd;text-align:center}
+#Sidenavmail{background-color:#4460ae;text-align:center}
+#Sidenavwhatsapp{background-color:green;text-align:center}
+@media screen and (min-width:577px) {
+#mySidenavr{width:175px;right:25px;font-size:17px;font-family:arial!important;font-weight:500;padding-top:5px;position:fixed;top:25%;transform:translateY(-50%);z-index:9999}
+#mySidenavr a{position:fixed;min-width:175px;height:35px;transition:.3s;text-decoration:none;color:#fff;border-radius:5px 5px 5px 5px;}
+#mySidenavr a div{padding:4px;}
+#mySidenavr a:hover{right:-30px;opacity:0.9}
+#mySidenavr a:hover img {cursor:default;transform:rotate(720deg);transition:all 0.3s ease-in-out 0s;}
+#mySidenavr a:nth-child(1) {top:0;}
+#mySidenavr a:nth-child(2) {top:40px;}
+#mySidenavr a:nth-child(3) {top:80px;}
+#mySidenavr .nofixed {right:-170px;}
+#mySidenavr .fixed {right:-30px;}
+#mySidenavr a p{margin:0px 0px 0px 42px;color:#fff;text-align:left}
+#mySidenavr .vertical-center {height:100%;width: 180px;display: table;vertical-align: middle;}
+#mySidenavr img{margin:4px;}
+.iconcta{float:left;filter:invert(100%);}
+}
+@media screen and (max-width:576px) {
+#mySidenavr{left:0;bottom: 0;width:100%;height:40px;position:fixed;display: inline-flex;z-index:999999;}
+#mySidenavr a{width:100%;transition:.3s;text-decoration:none;color:#fff;padding:8px 8px 0px;}
+#mySidenavr a .1col{width:100%!important}
+#mySidenavr a .2col{width:50%!important}
+#mySidenavr a .3col{width:33.3333333%!important}
+#mySidenavr img{margin:4px; cursor:default;transform: rotate(720deg);transition:all 0.3s ease-in-out 0s;}
+#mySidenavr p{display:none;}
+.iconcta{padding:0px;filter: invert(100%);}
+}
